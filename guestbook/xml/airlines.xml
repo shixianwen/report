@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<airlines xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" xsd:noNamespaceSchemaLocation="airlines.xsd">
+    <airline id="1">
+        <company>British Airways</company>
+        <name>BA272</name>
+        <price>255$</price>
+        <from>Stockholm Arlanda Airport</from>
+        <des>London Heathrow Airport</des>
+        <flydate>2015/4/7</flydate>
+         <flytime>17:21</flytime>
+    </airline>
+    <airline id="2">
+        <company>British Airways</company>
+        <name>BA274</name>
+        <price>100$</price>
+        <from>Stockholm Arlanda Airport</from>
+        <des>London Heathrow Airport</des>
+        <flydate>2015/4/7</flydate>
+         <flytime>14:21</flytime>
+    </airline>
+    <airline id="3">
+        <company>China Airline</company>
+        <name>CA911</name>
+        <price>225$</price>
+        <from>Stockholm Arlanda Airport</from>
+        <des>Beijing</des>
+        <flydate>2015/4/6</flydate>
+        <flytime>08:21</flytime>
+    </airline>
+</airlines>
